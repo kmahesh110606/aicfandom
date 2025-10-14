@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What is Aquaman's real name?",
+    "options": ["Arthur Curry", "Bruce Wayne", "Hal Jordan", "Barry Allen"],
+    "answer": "Arthur Curry"
+  },
+  {
+    "question": "Which villain is considered Aquaman's archenemy?",
+    "options": ["Black Manta", "Joker", "Lex Luthor", "Cheetah"],
+    "answer": "Black Manta"
+  },
+  {
+    "question": "Who is Aquaman's wife and partner with hydrokinetic powers?",
+    "options": ["Mera", "Diana Prince", "Lois Lane", "Selina Kyle"],
+    "answer": "Mera"
+  },
+  {
+    "question": "What underwater city does Aquaman rule?",
+    "options": ["Atlantis", "Themyscira", "Gotham", "Metropolis"],
+    "answer": "Atlantis"
+  },
+  {
+    "question": "What is the Atlantean name of Aquaman?",
+    "options": ["Orin", "Kal-El", "Ollie", "Victor"],
+    "answer": "Orin"
+  },
+  {
+    "question": "Which superhero team did Aquaman help found?",
+    "options": ["Justice League", "Teen Titans", "Outsiders", "Birds of Prey"],
+    "answer": "Justice League"
+  },
+  {
+    "question": "Aquaman can communicate and command which creatures?",
+    "options": ["Marine animals", "Birds", "Reptiles", "Insects"],
+    "answer": "Marine animals"
+  },
+  {
+    "question": "Who is Aquaman's half-brother and frequent rival?",
+    "options": ["Ocean Master", "Mr. Freeze", "Lex Luthor", "Sinestro"],
+    "answer": "Ocean Master"
+  },
+  {
+    "question": "Which object is essential for a Green Lantern's powers?",
+    "options": ["Power Ring", "Utility Belt", "Shield", "Lasso"],
+    "answer": "Power Ring"
+  },
+  {
+    "question": "What emotion powers the Green Lantern Corps?",
+    "options": ["Willpower", "Fear", "Hope", "Rage"],
+    "answer": "Willpower"
+  },
+  {
+    "question": "What is the secret identity of the most famous Green Lantern?",
+    "options": ["Hal Jordan", "Oliver Queen", "Bruce Wayne", "Diana Prince"],
+    "answer": "Hal Jordan"
+  },
+  {
+    "question": "Who is Hal Jordan's main enemy in the Yellow Lantern Corps?",
+    "options": ["Sinestro", "Lex Luthor", "Penguin", "Dr. Psycho"],
+    "answer": "Sinestro"
+  },
+  {
+    "question": "Which planet is the headquarters of the Green Lantern Corps?",
+    "options": ["Oa", "Krypton", "Mars", "Themyscira"],
+    "answer": "Oa"
+  },
+  {
+    "question": "Barry Allen gained his powers after an accident involving what?",
+    "options": ["Lightning and chemicals", "Alien technology", "Magic spell", "Radioactive spider"],
+    "answer": "Lightning and chemicals"
+  },
+  {
+    "question": "What is the main superpower of Barry Allen as The Flash?",
+    "options": ["Super-speed", "Flight", "Shape-shifting", "Invisibility"],
+    "answer": "Super-speed"
+  },
+  {
+    "question": "Barry Allen works as what when not being The Flash?",
+    "options": ["Forensic scientist", "Reporter", "Billionaire CEO", "Test pilot"],
+    "answer": "Forensic scientist"
+  },
+  {
+    "question": "Which city does Flash (Barry Allen) protect?",
+    "options": ["Central City", "Gotham", "Metropolis", "Star City"],
+    "answer": "Central City"
+  },
+  {
+    "question": "Who was the original Flash before Barry Allen?",
+    "options": ["Jay Garrick", "Wally West", "Hal Jordan", "Roy Harper"],
+    "answer": "Jay Garrick"
+  },
+  {
+    "question": "What is the primary color of the Flash's costume?",
+    "options": ["Red", "Green", "Blue", "Black"],
+    "answer": "Red"
+  },
+  {
+    "question": "Which superhero is known as the Emerald Archer?",
+    "options": ["Green Arrow", "Green Lantern", "Aquaman", "Hawkman"],
+    "answer": "Green Arrow"
+  },
+  {
+    "question": "What is Green Arrow's civilian name?",
+    "options": ["Oliver Queen", "Hal Jordan", "Arthur Curry", "Victor Stone"],
+    "answer": "Oliver Queen"
+  },
+  {
+    "question": "Green Arrow is famous for his expertise in which skill?",
+    "options": ["Archery", "Sword-fighting", "Super-speed", "Mind reading"],
+    "answer": "Archery"
+  },
+  {
+    "question": "Green Arrow frequently pairs up with which superheroine?",
+    "options": ["Black Canary", "Wonder Woman", "Harley Quinn", "Catwoman"],
+    "answer": "Black Canary"
+  },
+  {
+    "question": "Who is Green Arrow's adopted sidekick, formerly known as Speedy?",
+    "options": ["Roy Harper", "Dick Grayson", "Jason Todd", "Tim Drake"],
+    "answer": "Roy Harper"
+  },
+  {
+    "question": "What city is the main base for Green Arrow's vigilante activities?",
+    "options": ["Star City", "Gotham", "Central City", "Metropolis"],
+    "answer": "Star City"
+  },
+  {
+    "question": "Which character is famous for using 'boxing-glove arrows'?",
+    "options": ["Green Arrow", "Batman", "Joker", "Flash"],
+    "answer": "Green Arrow"
+  },
+  {
+    "question": "Wonder Woman was sculpted from what?",
+    "options": ["Clay", "Stone", "Ice", "Bronze"],
+    "answer": "Clay"
+  },
+  {
+    "question": "What is Wonder Woman's real name?",
+    "options": ["Diana", "Barbara", "Selina", "Kara"],
+    "answer": "Diana"
+  },
+  {
+    "question": "Wonder Woman is the princess of which mythical island?",
+    "options": ["Themyscira", "Atlantis", "Oa", "Smallville"],
+    "answer": "Themyscira"
+  },
+  {
+    "question": "Which magical tool does Wonder Woman use to force people to tell the truth?",
+    "options": ["Lasso of Truth", "Invisible Jet", "Magic Tiara", "Bracelets"],
+    "answer": "Lasso of Truth"
+  },
+  {
+    "question": "Who is Wonder Woman's mother?",
+    "options": ["Queen Hippolyta", "Lois Lane", "Martha Kent", "Nora Fries"],
+    "answer": "Queen Hippolyta"
+  },
+  {
+    "question": "Which trait is NOT one of Wonder Woman's primary superpowers?",
+    "options": ["Invisibility", "Super strength", "Flight", "Speed"],
+    "answer": "Invisibility"
+  },
+  {
+    "question": "Who is Wonder Woman's long-time love interest?",
+    "options": ["Steve Trevor", "Bruce Wayne", "Clark Kent", "Barry Allen"],
+    "answer": "Steve Trevor"
+  },
+  {
+    "question": "What is Superman's Kryptonian name?",
+    "options": ["Kal-El", "Zor-El", "Jor-El", "Orin"],
+    "answer": "Kal-El"
+  },
+  {
+    "question": "Where was Superman raised on Earth?",
+    "options": ["Smallville", "Gotham", "New York", "Central City"],
+    "answer": "Smallville"
+  },
+  {
+    "question": "Which newspaper does Clark Kent work for?",
+    "options": ["Daily Planet", "Central City Courier", "Star City Post", "Gotham Gazette"],
+    "answer": "Daily Planet"
+  },
+  {
+    "question": "Who is Superman's main nemesis?",
+    "options": ["Lex Luthor", "Joker", "Sinestro", "Black Manta"],
+    "answer": "Lex Luthor"
+  },
+  {
+    "question": "Which fictional city does Superman protect as his main base?",
+    "options": ["Metropolis", "Gotham", "Star City", "Themyscira"],
+    "answer": "Metropolis"
+  },
+  {
+    "question": "What is Kryptonite?",
+    "options": ["A rock from Superman's home planet", "A magic spell", "A technology device", "An ancient scroll"],
+    "answer": "A rock from Superman's home planet"
+  },
+  {
+    "question": "Who are Superman's adoptive parents?",
+    "options": ["Jonathan and Martha Kent", "Thomas and Martha Wayne", "Henry and Nora Allen", "Oliver and Moira Queen"],
+    "answer": "Jonathan and Martha Kent"
+  },
+  {
+    "question": "Which ability is NOT part of Superman's powers?",
+    "options": ["Mind control", "Super strength", "Flight", "Heat vision"],
+    "answer": "Mind control"
+  },
+  {
+    "question": "What tragic event shaped Batman's childhood?",
+    "options": ["Witnessing his parents' murder", "Being lost in the jungle", "An alien abduction", "A lab accident"],
+    "answer": "Witnessing his parents' murder"
+  },
+  {
+    "question": "What is Batman's real name?",
+    "options": ["Bruce Wayne", "Clark Kent", "Barry Allen", "Oliver Queen"],
+    "answer": "Bruce Wayne"
+  },
+  {
+    "question": "Which city does Batman protect?",
+    "options": ["Gotham City", "Metropolis", "Central City", "Star City"],
+    "answer": "Gotham City"
+  },
+  {
+    "question": "Which vehicle is famously associated with Batman?",
+    "options": ["Batmobile", "Invisible Jet", "Arrow Car", "Flashcycle"],
+    "answer": "Batmobile"
+  },
+  {
+    "question": "Who is Batman's loyal butler and confidant?",
+    "options": ["Alfred Pennyworth", "James Gordon", "Lucius Fox", "Harvey Dent"],
+    "answer": "Alfred Pennyworth"
+  },
+  {
+    "question": "Who serves as Batman's main arch-nemesis?",
+    "options": ["Joker", "Sinestro", "Lex Luthor", "Black Manta"],
+    "answer": "Joker"
+  },
+  {
+    "question": "Which weapon does Batman NOT usually use?",
+    "options": ["Heat vision", "Batarangs", "Grapnel gun", "Smoke bombs"],
+    "answer": "Heat vision"
+  },
+  {
+    "question": "Who was Batman's first sidekick?",
+    "options": ["Robin", "Aqualad", "Kid Flash", "Speedy"],
+    "answer": "Robin"
+  },
+  {
+    "question": "What does the Batcave serve as for Batman?",
+    "options": ["His headquarters", "A hideout for villains", "A power source", "A training gym for Superman"],
+    "answer": "His headquarters"
+  },
+  {
+    "question": "The Joker was originally known as which masked criminal?",
+    "options": ["Red Hood", "Green Hornet", "Penguin", "Riddler"],
+    "answer": "Red Hood"
+  },
+  {
+    "question": "What is the Joker's main relationship with Harley Quinn?",
+    "options": ["She is his former psychiatrist turned partner", "She is his adoptive daughter", "She is his enemy", "She is his cousin"],
+    "answer": "She is his former psychiatrist turned partner"
+  },
+  {
+    "question": "The Joker frequently uses which type of weapon?",
+    "options": ["Trick weapons like acid flowers and razor cards", "Laser guns", "Magic wands", "Shields"],
+    "answer": "Trick weapons like acid flowers and razor cards"
+  },
+  {
+    "question": "What is Harley Quinn's real name?",
+    "options": ["Harleen Quinzel", "Diana Prince", "Selina Kyle", "Ivy Pepper"],
+    "answer": "Harleen Quinzel"
+  },
+  {
+    "question": "Who is Harley Quinn's best friend and frequent accomplice?",
+    "options": ["Poison Ivy", "Catwoman", "Black Canary", "Wonder Woman"],
+    "answer": "Poison Ivy"
+  },
+  {
+    "question": "What profession did Harley Quinn practice before turning to crime?",
+    "options": ["Psychiatrist", "Reporter", "Scientist", "Police officer"],
+    "answer": "Psychiatrist"
+  },
+  {
+    "question": "Which of these is Harley Quinn most skilled at?",
+    "options": ["Gymnastics", "Flying", "Telepathy", "Swimming"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "Mr. Freeze is forced to wear which type of suit?",
+    "options": ["Cryogenic suit", "Power armor", "Hazmat suit", "Cloak"],
+    "answer": "Cryogenic suit"
+  },
+  {
+    "question": "What is Mr. Freeze's real name?",
+    "options": ["Victor Fries", "Edward Nygma", "Oswald Cobblepot", "Harvey Dent"],
+    "answer": "Victor Fries"
+  },
+  {
+    "question": "Why does Mr. Freeze turn to crime?",
+    "options": ["To cure his wife", "For revenge on Batman", "To become rich", "Because he loves chaos"],
+    "answer": "To cure his wife"
+  },
+  {
+    "question": "Mr. Freeze gained his powers after what kind of accident?",
+    "options": ["Cryogenic lab accident", "Lightning strike", "Radioactive explosion", "Fall from a building"],
+    "answer": "Cryogenic lab accident"
+  },
+  {
+    "question": "Which Justice League member is known for their investigative skills?",
+    "options": ["Batman", "Aquaman", "Green Lantern", "Flash"],
+    "answer": "Batman"
+  },
+  {
+    "question": "Which of these heroes uses a magic ring to create constructs?",
+    "options": ["Green Lantern", "Wonder Woman", "Aquaman", "The Flash"],
+    "answer": "Green Lantern"
+  }
+]

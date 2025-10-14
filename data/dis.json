@@ -1,0 +1,327 @@
+[
+  {
+    "question": "Who helps Snow White escape after the Queen orders her to be killed?",
+    "options": ["The Huntsman", "A Prince", "The Magic Mirror", "The Seven Dwarfs"],
+    "answer": "The Huntsman"
+  },
+  {
+    "question": "What does the Evil Queen disguise herself as when giving Snow White the poisoned apple?",
+    "options": ["An old peddler", "A wolf", "A dwarf", "A princess"],
+    "answer": "An old peddler"
+  },
+  {
+    "question": "What breaks the sleeping curse on Snow White?",
+    "options": ["Love's first kiss", "A magic mirror", "A golden apple", "A song"],
+    "answer": "Love's first kiss"
+  },
+  {
+    "question": "What object does the Queen ask the Huntsman to bring back as proof of Snow White’s death?",
+    "options": ["Her heart in a jeweled box", "Her hair brush", "A poison apple", "One of her shoes"],
+    "answer": "Her heart in a jeweled box"
+  },
+  {
+    "question": "Which animals help Snow White clean the dwarfs’ cottage?",
+    "options": ["Woodland animals", "Farm animals", "Forest trolls", "Unicorns"],
+    "answer": "Woodland animals"
+  },
+  {
+    "question": "Who are Cinderella’s two main mouse friends?",
+    "options": ["Jaq and Gus", "Mickey and Minnie", "Tom and Jerry", "Remy and Emile"],
+    "answer": "Jaq and Gus"
+  },
+  {
+    "question": "What magical item does Cinderella leave behind at the royal ball?",
+    "options": ["A glass slipper", "A tiara", "A pearl necklace", "A blue ribbon"],
+    "answer": "A glass slipper"
+  },
+  {
+    "question": "Who transforms a pumpkin into a carriage for Cinderella?",
+    "options": ["Fairy godmother", "Her stepmother", "A wizard", "Her best friend"],
+    "answer": "Fairy godmother"
+  },
+  {
+    "question": "What is Lady Tremaine’s relationship to Cinderella?",
+    "options": ["Step-mother", "Aunt", "Cousin", "Sister"],
+    "answer": "Step-mother"
+  },
+  {
+    "question": "How is the magic that allows Cinderella to attend the ball limited?",
+    "options": ["It ends at midnight", "It wears off with rain", "It fades with sunrise", "It lasts for a week"],
+    "answer": "It ends at midnight"
+  },
+  {
+    "question": "What is the birth name given to Aurora by her fairy guardians in 'Sleeping Beauty'?",
+    "options": ["Briar Rose", "Rosaline", "Belle", "Lily Anna"],
+    "answer": "Briar Rose"
+  },
+  {
+    "question": "Which fairy changes Maleficent’s curse so that Aurora will not die?",
+    "options": ["Merryweather", "Flora", "Fauna", "Tinker Bell"],
+    "answer": "Merryweather"
+  },
+  {
+    "question": "How does Prince Phillip defeat Maleficent in dragon form?",
+    "options": ["Throws an enchanted sword", "Uses magic dust", "Sings a song", "Turns into a dragon"],
+    "answer": "Throws an enchanted sword"
+  },
+  {
+    "question": "Who puts the entire kingdom to sleep until Aurora awakens?",
+    "options": ["The three good fairies", "Maleficent", "King Stefan", "The Queen"],
+    "answer": "The three good fairies"
+  },
+  {
+    "question": "What triggers Aurora’s deep sleep?",
+    "options": ["Pricking her finger on a spindle", "Eating an apple", "Touching a rose", "Drinking a potion"],
+    "answer": "Pricking her finger on a spindle"
+  },
+  {
+    "question": "What is the name of Ariel's father in 'The Little Mermaid'?",
+    "options": ["King Triton", "King Eric", "Poseidon", "Sebastian"],
+    "answer": "King Triton"
+  },
+  {
+    "question": "To become human for three days, what does Ariel give up?",
+    "options": ["Her voice", "Her hair", "Her necklace", "Her fin"],
+    "answer": "Her voice"
+  },
+  {
+    "question": "What magical creature aids Ariel as her adviser and court composer?",
+    "options": ["Sebastian the crab", "Scuttle the seagull", "Flounder the fish", "Max the dog"],
+    "answer": "Sebastian the crab"
+  },
+  {
+    "question": "How is Ursula finally defeated?",
+    "options": ["Eric impales her with a ship", "Ariel outsmarts her", "Triton uses his trident", "Sebastian tricks her"],
+    "answer": "Eric impales her with a ship"
+  },
+  {
+    "question": "What happens to Ariel at the end of 'The Little Mermaid'?",
+    "options": ["She marries Eric and becomes human", "She returns to the ocean", "She rules Atlantica", "She becomes a mermaid again"],
+    "answer": "She marries Eric and becomes human"
+  },
+  {
+    "question": "What must the Beast do to break his curse in 'Beauty and the Beast'?",
+    "options": ["Learn to love and be loved in return", "Sing a magic song", "Win a duel", "Break the enchanted mirror"],
+    "answer": "Learn to love and be loved in return"
+  },
+  {
+    "question": "What enchanted object keeps track of the time left to break the Beast’s curse?",
+    "options": ["An enchanted rose", "A ticking clock", "A magic mirror", "A golden hourglass"],
+    "answer": "An enchanted rose"
+  },
+  {
+    "question": "Who is Belle's inventor father?",
+    "options": ["Maurice", "Gaston", "Lumière", "Monsieur D'Arque"],
+    "answer": "Maurice"
+  },
+  {
+    "question": "Which household object is Mrs. Potts?",
+    "options": ["A teapot", "A candlestick", "A clock", "A feather duster"],
+    "answer": "A teapot"
+  },
+  {
+    "question": "Who tries to force Belle into marriage and attacks the Beast?",
+    "options": ["Gaston", "Maurice", "LeFou", "Chip"],
+    "answer": "Gaston"
+  },
+  {
+    "question": "What is Aladdin’s wish for the Genie after defeating Jafar?",
+    "options": ["To set Genie free", "To become Sultan", "To erase Jasmine’s memory", "To restore the lamp"],
+    "answer": "To set Genie free"
+  },
+  {
+    "question": "What is the name of Princess Jasmine's kingdom?",
+    "options": ["Agrabah", "Arendelle", "Corona", "Motunui"],
+    "answer": "Agrabah"
+  },
+  {
+    "question": "Who tries to obtain the magic lamp for their own power in 'Aladdin'?",
+    "options": ["Jafar", "Iago", "Sultan", "Abu"],
+    "answer": "Jafar"
+  },
+  {
+    "question": "What type of animal is Abu in 'Aladdin'?",
+    "options": ["Monkey", "Tiger", "Parrot", "Camel"],
+    "answer": "Monkey"
+  },
+  {
+    "question": "What magical object allows Jasmine and Aladdin to fly together?",
+    "options": ["Magic carpet", "Genie's lamp", "Golden ring", "Crystal ball"],
+    "answer": "Magic carpet"
+  },
+  {
+    "question": "Who is Pocahontas’s talking tree advisor?",
+    "options": ["Grandmother Willow", "Old Oak", "Mist Spirit", "Willow Sage"],
+    "answer": "Grandmother Willow"
+  },
+  {
+    "question": "Who is the English settler Pocahontas falls in love with?",
+    "options": ["John Smith", "Thomas", "Kocoum", "Governor Ratcliffe"],
+    "answer": "John Smith"
+  },
+  {
+    "question": "What defines the relationship between Powhatan and Pocahontas?",
+    "options": ["He is her father", "He is her uncle", "He is her brother", "He is her friend"],
+    "answer": "He is her father"
+  },
+  {
+    "question": "Why doesn't Pocahontas leave with John Smith at the end?",
+    "options": ["She chooses to stay with her tribe", "She doesn't love him", "She is injured", "He never asks her"],
+    "answer": "She chooses to stay with her tribe"
+  },
+  {
+    "question": "What does Pocahontas interpret as her destiny from John Smith’s compass?",
+    "options": ["A spinning arrow", "A gold coin", "A sunbeam", "A shooting star"],
+    "answer": "A spinning arrow"
+  },
+  {
+    "question": "What prompts Mulan to take her father's place in the army?",
+    "options": ["To save his life", "To find adventure", "To prove herself", "By accident"],
+    "answer": "To save his life"
+  },
+  {
+    "question": "What is the small red dragon who aids Mulan named?",
+    "options": ["Mushu", "Khan", "Shan Yu", "Ling"],
+    "answer": "Mushu"
+  },
+  {
+    "question": "Who does Mulan defeat to save the Emperor?",
+    "options": ["Shan Yu", "Chi-Fu", "Captain Li Shang", "The Great Ancestor"],
+    "answer": "Shan Yu"
+  },
+  {
+    "question": "What reward does Mulan decline from the Emperor?",
+    "options": ["A seat on the royal council", "A golden sword", "A royal title", "Thirty horses"],
+    "answer": "A seat on the royal council"
+  },
+  {
+    "question": "What do Mushu and the ancestors hope to accomplish by helping Mulan?",
+    "options": ["Restore family honor", "Win a battle", "Become rich", "Sell a sword"],
+    "answer": "Restore family honor"
+  },
+  {
+    "question": "What city does Tiana's story in 'The Princess and the Frog' take place?",
+    "options": ["New Orleans", "Paris", "Savannah", "Orlando"],
+    "answer": "New Orleans"
+  },
+  {
+    "question": "Who transforms Prince Naveen into a frog?",
+    "options": ["Dr. Facilier", "Mama Odie", "Tiana", "Charlotte"],
+    "answer": "Dr. Facilier"
+  },
+  {
+    "question": "What is Tiana's lifelong dream?",
+    "options": ["Owning a restaurant", "Becoming a princess", "Finding treasure", "Traveling the world"],
+    "answer": "Owning a restaurant"
+  },
+  {
+    "question": "Who is the jazz-loving firefly in 'The Princess and the Frog'?",
+    "options": ["Ray", "Louis", "George", "Alphonse"],
+    "answer": "Ray"
+  },
+  {
+    "question": "What breaks Tiana and Naveen's frog curse?",
+    "options": ["True love's kiss", "A magic beignet", "Ray's light", "A midnight song"],
+    "answer": "True love's kiss"
+  },
+  {
+    "question": "What magical ability does Rapunzel’s hair possess?",
+    "options": ["Healing powers", "Invisibility", "Turning objects to gold", "Granting wishes"],
+    "answer": "Healing powers"
+  },
+  {
+    "question": "What is Flynn Rider’s real name in 'Tangled'?",
+    "options": ["Eugene Fitzherbert", "Eric Rider", "Maximus", "Pascal"],
+    "answer": "Eugene Fitzherbert"
+  },
+  {
+    "question": "Who kidnaps Rapunzel and keeps her in a tower?",
+    "options": ["Mother Gothel", "Mother Superior", "Mother Willow", "A witch"],
+    "answer": "Mother Gothel"
+  },
+  {
+    "question": "What event do the king and queen hold every year for their lost daughter?",
+    "options": ["Release of sky lanterns", "A royal ball", "A jousting tournament", "A flower festival"],
+    "answer": "Release of sky lanterns"
+  },
+  {
+    "question": "How is Gothel finally defeated in 'Tangled'?",
+    "options": ["She rapidly ages and falls from the tower", "She is arrested", "She flees the kingdom", "She is turned to stone"],
+    "answer": "She rapidly ages and falls from the tower"
+  },
+  {
+    "question": "What does Merida use to break tradition in her clan?",
+    "options": ["Competes for her own hand", "Refuses to marry", "Runs away", "Becomes queen"],
+    "answer": "Competes for her own hand"
+  },
+  {
+    "question": "What magical creature leads Merida to the witch’s hut?",
+    "options": ["Will-o'-the-wisps", "Talking bears", "Unicorns", "Fairies"],
+    "answer": "Will-o'-the-wisps"
+  },
+  {
+    "question": "What transformation does Merida’s mother undergo after eating the enchanted cake?",
+    "options": ["Turns into a bear", "Turns into stone", "Becomes invisible", "Turns to gold"],
+    "answer": "Turns into a bear"
+  },
+  {
+    "question": "What must Merida repair to break her mother’s curse?",
+    "options": ["Family tapestry", "Bow and arrow", "Castle gate", "Macintosh’s sword"],
+    "answer": "Family tapestry"
+  },
+  {
+    "question": "Who is the demon bear in 'Brave' that was once a prince?",
+    "options": ["Mor'du", "MacGuffin", "Dingwall", "Fergus"],
+    "answer": "Mor'du"
+  },
+  {
+    "question": "What is the name of Moana’s island home?",
+    "options": ["Motunui", "Te Fiti", "Lalotai", "Agrabah"],
+    "answer": "Motunui"
+  },
+  {
+    "question": "Who stole the heart of Te Fiti?",
+    "options": ["Maui", "Moana", "Chief Tui", "Te Kā"],
+    "answer": "Maui"
+  },
+  {
+    "question": "What is the shape-shifting demigod’s magical tool?",
+    "options": ["Fish hook", "Magic shell", "Golden ring", "Staff of the sea"],
+    "answer": "Fish hook"
+  },
+  {
+    "question": "Which creature turns out to be Te Fiti, corrupted without her heart?",
+    "options": ["Te Kā", "Tamatoa", "Sina", "Pua"],
+    "answer": "Te Kā"
+  },
+  {
+    "question": "Who encourages Moana by revealing her people's voyaging past?",
+    "options": ["Grandmother Tala", "Maui", "Heihei", "Sina"],
+    "answer": "Grandmother Tala"
+  },
+  {
+    "question": "What is the name of the magical dragon in 'Raya and the Last Dragon'?",
+    "options": ["Sisu", "Boun", "Namaari", "Tong"],
+    "answer": "Sisu"
+  },
+  {
+    "question": "What is the main motivation behind Raya's journey?",
+    "options": ["To reunite Kumandra and restore her father", "To find wealth", "To rescue her mother", "To defeat Boun"],
+    "answer": "To reunite Kumandra and restore her father"
+  },
+  {
+    "question": "What event caused Kumandra to split into five tribes?",
+    "options": ["The dragons' sacrifice", "The arrival of the Fang tribe", "A great drought", "The awakening of Sisu"],
+    "answer": "The dragons' sacrifice"
+  },
+  {
+    "question": "Who betrays Raya by leading an attack on the dragon gem?",
+    "options": ["Namaari", "Boun", "Tong", "Little Noi"],
+    "answer": "Namaari"
+  },
+  {
+    "question": "What does Sisu need to vanquish the Druun?",
+    "options": ["A restored dragon gem", "A sword", "A piece of Fang's river", "A dragon pendant"],
+    "answer": "A restored dragon gem"
+  }
+]

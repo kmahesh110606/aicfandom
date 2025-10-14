@@ -1,0 +1,367 @@
+[
+  {
+    "question": "Which military division does Armin Arlelt belong to?",
+    "options": ["Scout Regiment", "Military Police", "Garrison", "Marleyan military"],
+    "answer": "Scout Regiment"
+  },
+  {
+    "question": "What is the Titan form associated with Armin Arlelt?",
+    "options": ["Colossal Titan", "Armored Titan", "Beast Titan", "Female Titan"],
+    "answer": "Colossal Titan"
+  },
+  {
+    "question": "What special ability does the Attack Titan possess?",
+    "options": ["Future memory inheritance", "Titan creation", "Structural hardening", "Powerful jaw strength"],
+    "answer": "Future memory inheritance"
+  },
+  {
+    "question": "Where is the Basement located?",
+    "options": ["Shiganshina District", "Wall Rose", "Wall Maria", "Wall Sina"],
+    "answer": "Shiganshina District"
+  },
+  {
+    "question": "What is the main goal of the Anti-Marleyan Volunteers?",
+    "options": ["Maintain public order", "Fight against Marley", "Explore outside the Walls", "Protect the King"],
+    "answer": "Fight against Marley"
+  },
+  {
+    "question": "What is the status of Armin Arlelt in the story?",
+    "options": ["Alive", "Deceased", "Unknown", "Missing"],
+    "answer": "Alive"
+  },
+  {
+    "question": "Who is famously called 'Humanity's Strongest Soldier'?",
+    "options": ["Levi Ackermann", "Jean Kirschtein", "Armin Arlelt", "Erwin Smith"],
+    "answer": "Levi Ackermann"
+  },
+  {
+    "question": "Which character is known by the alias 'Potato Girl'?",
+    "options": ["Annie Leonhart", "Mikasa Ackermann", "Sasha Braus", "Historia Reiss"],
+    "answer": "Sasha Braus"
+  },
+  {
+    "question": "What is the main occupation of the Garrison Regiment?",
+    "options": ["Guarding and maintaining the Walls", "Scouting outside", "Police work inside Walls", "Fighting Marley"],
+    "answer": "Guarding and maintaining the Walls"
+  },
+  {
+    "question": "Where is the Braus Stables located?",
+    "options": ["Dauper", "Shiganshina District", "Mitras", "Liberio"],
+    "answer": "Dauper"
+  },
+  {
+    "question": "Which region is Capital Mitras located in?",
+    "options": ["Wall Sina", "Wall Rose", "Wall Maria", "Marley"],
+    "answer": "Wall Sina"
+  },
+  {
+    "question": "Who are the subjects of Ymir?",
+    "options": ["Eldians", "Marleyans", "Ackermanns", "Warriors"],
+    "answer": "Eldians"
+  },
+  {
+    "question": "Which Titan is known for 'Explosive transformation'?",
+    "options": ["Colossal Titan", "Jaw Titan", "Armored Titan", "Cart Titan"],
+    "answer": "Colossal Titan"
+  },
+  {
+    "question": "Which Titan possesses 'Armored skin'?",
+    "options": ["Femal Titan", "Armored Titan", "Founding Titan", "Beast Titan"],
+    "answer": "Armored Titan"
+  },
+  {
+    "question": "What is the known allegiance of the Attack Titan?",
+    "options": ["Eldia", "Marley", "None", "Warriors"],
+    "answer": "Eldia"
+  },
+  {
+    "question": "What is the occupation of Erwin Smith?",
+    "options": ["Soldier", "King", "Merchant", "Titan"],
+    "answer": "Soldier"
+  },
+  {
+    "question": "What family is notably associated with Braus Stables?",
+    "options": ["Braus family", "Reiss family", "Arlelt family", "Smith family"],
+    "answer": "Braus family"
+  },
+  {
+    "question": "Which organization is affiliated with the Royal Government?",
+    "options": ["Berg Newspapers", "Garrison Regiment", "Scout Regiment", "Marleyan military"],
+    "answer": "Berg Newspapers"
+  },
+  {
+    "question": "What is the primary role of the Military Police Regiment?",
+    "options": ["Personal guard of the King", "External scouting", "Wall repair", "Titan research"],
+    "answer": "Personal guard of the King"
+  },
+  {
+    "question": "Who is known as 'Eyebrow' in the series?",
+    "options": ["Erwin Smith", "Jean Kirschtein", "Levi Ackermann", "Hange Zoë"],
+    "answer": "Erwin Smith"
+  },
+  {
+    "question": "Which Titan form allows telepathic communication?",
+    "options": ["Founding Titan", "Attack Titan", "Beast Titan", "Jaw Titan"],
+    "answer": "Founding Titan"
+  },
+  {
+    "question": "Which Warrior Titan is known for maneuvering on four legs?",
+    "options": ["Cart Titan", "Jaw Titan", "Armored Titan", "Colossal Titan"],
+    "answer": "Cart Titan"
+  },
+  {
+    "question": "Who is the current inheritor of the War Hammer Titan?",
+    "options": ["Eren Jaeger", "Pieck Finger", "Porco Galliard", "Zeke Jaeger"],
+    "answer": "Eren Jaeger"
+  },
+  {
+    "question": "What group offers worship to the three Walls?",
+    "options": ["Order of the Walls", "Scout Regiment", "Jaegerists", "Reeves Company"],
+    "answer": "Order of the Walls"
+  },
+  {
+    "question": "Which Titan is associated with 'Powerful jaw strength'?",
+    "options": ["Jaw Titan", "Female Titan", "Beast Titan", "Cart Titan"],
+    "answer": "Jaw Titan"
+  },
+  {
+    "question": "Which breathing style is considered the origin of all others?",
+    "options": ["Wind Breathing", "Water Breathing", "Sun Breathing", "Flame Breathing"],
+    "answer": "Sun Breathing"
+  },
+  {
+    "question": "Who is the main mentor of Tanjiro Kamado?",
+    "options": ["Giyu Tomioka", "Kyojuro Rengoku", "Sakonji Urokodaki", "Tengen Uzui"],
+    "answer": "Sakonji Urokodaki"
+  },
+  {
+    "question": "What unique ability does Nezuko Kamado possess in demon form?",
+    "options": ["Ice Breathing", "Combustible Blood", "Spider Threads", "Mind Control"],
+    "answer": "Combustible Blood"
+  },
+  {
+    "question": "Which Hashira is known as the Water Hashira?",
+    "options": ["Giyu Tomioka", "Tengen Uzui", "Shinobu Kocho", "Mitsuri Kanroji"],
+    "answer": "Giyu Tomioka"
+  },
+  {
+    "question": "What motivates Tanjiro to join the Demon Slayer Corps?",
+    "options": ["Revenge for a fallen comrade", "To become stronger", "To protect his village", "To cure his sister"],
+    "answer": "To cure his sister"
+  },
+  {
+    "question": "Which breathing style does Zenitsu Agatsuma practice?",
+    "options": ["Sun Breathing", "Beast Breathing", "Thunder Breathing", "Water Breathing"],
+    "answer": "Thunder Breathing"
+  },
+  {
+    "question": "Who is the younger sister of Tanjiro Kamado?",
+    "options": ["Makomo", "Nezuko", "Aoi", "Kanae"],
+    "answer": "Nezuko"
+  },
+  {
+    "question": "Who appears to help train Tanjiro during his preparations for the Final Selection?",
+    "options": ["Zenitsu", "Sabito", "Kanao", "Mitsuri"],
+    "answer": "Sabito"
+  },
+  {
+    "question": "Which of the following characters used Sun Breathing apart from Tanjiro?",
+    "options": ["Zenitsu", "Yoriichi", "Murata", "Makomo"],
+    "answer": "Yoriichi"
+  },
+  {
+    "question": "Who uses Flesh Manipulation as their main ability?",
+    "options": ["Nezuko Kamado", "Tanjiro Kamado", "Hand Demon", "Giyu Tomioka"],
+    "answer": "Hand Demon"
+  },
+  {
+    "question": "Which breathing style focuses on lightning-fast strikes?",
+    "options": ["Sun Breathing", "Thunder Breathing", "Water Breathing", "Stone Breathing"],
+    "answer": "Thunder Breathing"
+  },
+  {
+    "question": "What does Nezuko's Blood Demon Art primarily affect?",
+    "options": ["Humans", "All Demons and Humans", "Only Demons", "Ghosts"],
+    "answer": "Only Demons"
+  },
+  {
+    "question": "Which village is Naruto Uzumaki from?",
+    "options": ["Sunagakure", "Kirigakure", "Konohagakure", "Iwagakure"],
+    "answer": "Konohagakure"
+  },
+  {
+    "question": "What is the full name of the tailed beast sealed inside Naruto?",
+    "options": ["Shukaku", "Gyūki", "Kurama", "Matatabi"],
+    "answer": "Kurama"
+  },
+  {
+    "question": "Which kekkei genkai allows the Uchiha clan to use techniques like Amaterasu and Tsukuyomi?",
+    "options": ["Byakugan", "Rinnegan", "Shikotsumyaku", "Sharingan"],
+    "answer": "Sharingan"
+  },
+  {
+    "question": "Who was Itachi Uchiha's partner in the Akatsuki?",
+    "options": ["Deidara", "Kisame Hoshigaki", "Sasori", "Hidan"],
+    "answer": "Kisame Hoshigaki"
+  },
+  {
+    "question": "Which chakra nature is Naruto's elemental affinity?",
+    "options": ["Fire Release", "Earth Release", "Wind Release", "Lightning Release"],
+    "answer": "Wind Release"
+  },
+  {
+    "question": "Konan uses paper-based jutsu. What is one of her signature techniques?",
+    "options": ["Dance of the Shikigami", "Sand Coffin", "Paper Wings", "Iron Sand World"],
+    "answer": "Dance of the Shikigami"
+  },
+  {
+    "question": "What tailed beast does Gaara initially host?",
+    "options": ["Kurama", "Shukaku", "Saiken", "Kokuō"],
+    "answer": "Shukaku"
+  },
+  {
+    "question": "Which of these jutsu is exclusive to Deidara?",
+    "options": ["C0", "Chidori", "Fireball Jutsu", "Shadow Clone"],
+    "answer": "C0"
+  },
+  {
+    "question": "Which Akatsuki member is functionally immortal?",
+    "options": ["Pain", "Kisame", "Hidan", "Zetsu"],
+    "answer": "Hidan"
+  },
+  {
+    "question": "Obito Uchiha also went by which name during his time in Akatsuki?",
+    "options": ["Madara", "Tobi", "Tenzo", "Sasori"],
+    "answer": "Tobi"
+  },
+  {
+    "question": "Which dojutsu is accessible to both the Uchiha and descendants of Kaguya Ōtsutsuki?",
+    "options": ["Byakugan", "Tenseigan", "Rinnegan", "Ketsuryūgan"],
+    "answer": "Rinnegan"
+  },
+  {
+    "question": "Which summoning creature is most associated with Jiraiya?",
+    "options": ["Snake", "Slug", "Toad", "Dog"],
+    "answer": "Toad"
+  },
+  {
+    "question": "What is Madara Uchiha's kekkei genkai combination called?",
+    "options": ["Storm Release", "Explosion Release", "Eternal Mangekyō Sharingan", "Ice Release"],
+    "answer": "Eternal Mangekyō Sharingan"
+  },
+  {
+    "question": "Which ninja is known as 'The Copy Ninja'?",
+    "options": ["Itachi Uchiha", "Sasuke Uchiha", "Kakashi Hatake", "Shikamaru Nara"],
+    "answer": "Kakashi Hatake"
+  },
+  {
+    "question": "Which Akatsuki member uses 'Explosive Clay' as their primary weapon?",
+    "options": ["Sasori", "Deidara", "Kakuzu", "Zetsu"],
+    "answer": "Deidara"
+  },
+  {
+    "question": "Which of these clans is associated with sand manipulation?",
+    "options": ["Uzumaki", "Kazekage", "Nara", "Yamanaka"],
+    "answer": "Kazekage"
+  },
+  {
+    "question": "Which jutsu does the Sage of Six Paths use to create the tailed beasts?",
+    "options": ["Chibaku Tensei", "Creation of All Things", "Amaterasu", "Truth-Seeking Ball"],
+    "answer": "Chibaku Tensei"
+  },
+  {
+    "question": "Who was Sasori partnered with in the Akatsuki before Deidara?",
+    "options": ["Kisame", "Orochimaru", "Kakuzu", "It was always Deidara"],
+    "answer": "Orochimaru"
+  },
+  {
+    "question": "Which of these chakra natures is part of the Storm Release?",
+    "options": ["Fire and Wind", "Water and Lightning", "Fire and Lightning", "Wind and Earth"],
+    "answer": "Water and Lightning"
+  },
+  {
+    "question": "Karin is a member of which clan known for strong life forces and healing abilities?",
+    "options": ["Uchiha", "Uzumaki", "Hyuga", "Yamanaka"],
+    "answer": "Uzumaki"
+  },
+  {
+    "question": "Which tailed beast has steam-based, boiling chakra techniques?",
+    "options": ["Saiken", "Gyūki", "Son Gokū", "Kokuō"],
+    "answer": "Kokuō"
+  },
+  {
+    "question": "Black Zetsu was originally created by whom?",
+    "options": ["Hagoromo Otsutsuki", "Madara Uchiha", "Kaguya Otsutsuki", "Obito Uchiha"],
+    "answer": "Kaguya Otsutsuki"
+  },
+  {
+    "question": "Which jutsu was invented by Minato and later perfected by Naruto?",
+    "options": ["Chidori", "Rasengan", "Amaterasu", "Fireball Jutsu"],
+    "answer": "Rasengan"
+  },
+  {
+    "question": "What ability allows Obito to transport body parts into a pocket dimension?",
+    "options": ["Kamui", "Izanami", "Kotoamatsukami", "Amenotejikara"],
+    "answer": "Kamui"
+  },
+  {
+    "question": "Who did Kakuzu often kill due to financial disagreements?",
+    "options": ["ANBU agents", "Clients", "His Akatsuki partners", "Village elders"],
+    "answer": "His Akatsuki partners"
+  },
+  {
+    "question": "Which team does Suigetsu belong to after joining Sasuke?",
+    "options": ["Team 10", "Team 7", "Team Taka", "Team Hebi"],
+    "answer": "Team Taka"
+  },
+  {
+    "question": "Which of the following uses Lava Release?",
+    "options": ["Gaara", "Kurotsuchi", "Deidara", "Haku"],
+    "answer": "Kurotsuchi"
+  },
+  {
+    "question": "Who uses the technique 'Curse Technique: Death Controlling Possessed Blood'?",
+    "options": ["Itachi", "Hidan", "Zabuza", "Pein"],
+    "answer": "Hidan"
+  },
+  {
+    "question": "Which character became the jinchūriki of the Ten-Tails temporarily?",
+    "options": ["Naruto", "Sasuke", "Obito", "Gaara"],
+    "answer": "Obito"
+  },
+  {
+    "question": "Which Akatsuki member is also known as a puppeteer from Sunagakure?",
+    "options": ["Deidara", "Sasori", "Itachi", "Kakuzu"],
+    "answer": "Sasori"
+  },
+  {
+    "question": "Which team is made up of Naruto, Sasuke, and Sakura?",
+    "options": ["Team 7", "Team 10", "Team Gai", "Team Taka"],
+    "answer": "Team 7"
+  },
+  {
+    "question": "Which chakra nature is unique for Explosion Release users?",
+    "options": ["Fire", "Earth", "Lightning", "A combination of Earth and Lightning"],
+    "answer": "A combination of Earth and Lightning"
+  },
+  {
+    "question": "Who is the jinchūriki of Saiken, the Six-Tails?",
+    "options": ["Gaara", "Utakata", "Han", "Yagura"],
+    "answer": "Utakata"
+  },
+  {
+    "question": "What is the name of the statue used by the Akatsuki to extract tailed beasts?",
+    "options": ["Gedo Mazo", "Susanoo", "Tenseigan", "Kamui Dimension"],
+    "answer": "Gedo Mazo"
+  },
+  {
+    "question": "Which Akatsuki member wields the cursed blade Samehada?",
+    "options": ["Kisame", "Zabuza", "Suigetsu", "Kakashi"],
+    "answer": "Kisame"
+  },
+  {
+    "question": "Who was the original founder of Akatsuki?",
+    "options": ["Konan", "Nagato", "Yahiko", "Obito"],
+    "answer": "Yahiko"
+  }
+]

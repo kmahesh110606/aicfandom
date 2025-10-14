@@ -1,0 +1,357 @@
+[
+  {
+    "question": "What House was Harry Potter sorted into?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answer": "Gryffindor"
+  },
+  {
+    "question": "What is the core of Harry Potter's wand?",
+    "options": ["Unicorn tail hair", "Dragon heartstring", "Phoenix tail feather", "Veela hair"],
+    "answer": "Phoenix tail feather"
+  },
+  {
+    "question": "Which form does Hermione Granger's Patronus take?",
+    "options": ["Otter", "Cat", "Doe", "Fox"],
+    "answer": "Otter"
+  },
+  {
+    "question": "Who is the head of Gryffindor house for most of the series?",
+    "options": ["Minerva McGonagall", "Albus Dumbledore", "Remus Lupin", "Severus Snape"],
+    "answer": "Minerva McGonagall"
+  },
+  {
+    "question": "Which student belonged to Ravenclaw and produced a swan Patronus?",
+    "options": ["Cho Chang", "Luna Lovegood", "Padma Patil", "Susan Bones"],
+    "answer": "Cho Chang"
+  },
+  {
+    "question": "What is the Patronus of Luna Lovegood?",
+    "options": ["Hare", "Cat", "Swan", "Fox"],
+    "answer": "Hare"
+  },
+  {
+    "question": "What House was Severus Snape in as a student?",
+    "options": ["Slytherin", "Ravenclaw", "Gryffindor", "Hufflepuff"],
+    "answer": "Slytherin"
+  },
+  {
+    "question": "Which animal forms the Patronus of Severus Snape?",
+    "options": ["Doe", "Stag", "Panther", "Wolf"],
+    "answer": "Doe"
+  },
+  {
+    "question": "What is Ron Weasley's wand core?",
+    "options": ["Dragon heartstring", "Phoenix feather", "Unicorn tail hair", "Basilisk fang"],
+    "answer": "Unicorn tail hair"
+  },
+  {
+    "question": "What is the Patronus form of Ron Weasley?",
+    "options": ["Jack Russell Terrier", "Stag", "Otter", "Fox"],
+    "answer": "Jack Russell Terrier"
+  },
+  {
+    "question": "Which half-giant served as Keeper of Keys and Grounds at Hogwarts?",
+    "options": ["Rubeus Hagrid", "Grawp", "Firenze", "Norbert"],
+    "answer": "Rubeus Hagrid"
+  },
+  {
+    "question": "Which of these characters was sorted into Hufflepuff?",
+    "options": ["Cedric Diggory", "Seamus Finnigan", "Luna Lovegood", "Draco Malfoy"],
+    "answer": "Cedric Diggory"
+  },
+  {
+    "question": "Which magical animal did Hagrid introduce that injured Draco Malfoy?",
+    "options": ["Hippogriff", "Blast-Ended Skrewt", "Thestral", "Acromantula"],
+    "answer": "Hippogriff"
+  },
+  {
+    "question": "Which character used the alias 'Padfoot'?",
+    "options": ["Sirius Black", "Remus Lupin", "James Potter", "Peter Pettigrew"],
+    "answer": "Sirius Black"
+  },
+  {
+    "question": "Which creature's feather is contained in the wands of both Harry Potter and Lord Voldemort?",
+    "options": ["Phoenix", "Basilisk", "Thestral", "Dragon"],
+    "answer": "Phoenix"
+  },
+  {
+    "question": "Which character has the Patronus form of a lynx?",
+    "options": ["Kingsley Shacklebolt", "Nymphadora Tonks", "Arthur Weasley", "Sirius Black"],
+    "answer": "Kingsley Shacklebolt"
+  },
+  {
+    "question": "Who was assigned to teach Defense Against the Dark Arts and is a werewolf?",
+    "options": ["Remus Lupin", "Gilderoy Lockhart", "Severus Snape", "Dolores Umbridge"],
+    "answer": "Remus Lupin"
+  },
+  {
+    "question": "Which villainous witch used a wand made of walnut with a dragon heartstring core?",
+    "options": ["Bellatrix Lestrange", "Dolores Umbridge", "Narcissa Malfoy", "Pansy Parkinson"],
+    "answer": "Bellatrix Lestrange"
+  },
+  {
+    "question": "What is the core of Hermione Granger's wand?",
+    "options": ["Phoenix tail feather", "Unicorn hair", "Dragon heartstring", "Veela hair"],
+    "answer": "Dragon heartstring"
+  },
+  {
+    "question": "Which character has the nickname 'The Half-Blood Prince'?",
+    "options": ["Severus Snape", "Tom Riddle", "Harry Potter", "Lucius Malfoy"],
+    "answer": "Severus Snape"
+  },
+  {
+    "question": "What type of animal is Minerva McGonagall's Patronus?",
+    "options": ["Tabby cat", "Fox", "Lynx", "Doe"],
+    "answer": "Tabby cat"
+  },
+  {
+    "question": "Which professor has a wand made of fir wood with a dragon heartstring core?",
+    "options": ["Minerva McGonagall", "Professor Flitwick", "Remus Lupin", "Gilderoy Lockhart"],
+    "answer": "Minerva McGonagall"
+  },
+  {
+    "question": "What is the Patronus form of Ginny Weasley?",
+    "options": ["Horse", "Otter", "Fox", "Cat"],
+    "answer": "Horse"
+  },
+  {
+    "question": "Which character's Patronus is a wolf?",
+    "options": ["Remus Lupin", "Sirius Black", "Harry Potter", "Severus Snape"],
+    "answer": "Remus Lupin"
+  },
+  {
+    "question": "Which Death Eater was born Tom Marvolo Riddle?",
+    "options": ["Lord Voldemort", "Lucius Malfoy", "Peter Pettigrew", "Barty Crouch Jr."],
+    "answer": "Lord Voldemort"
+  },
+  {
+    "question": "Who produced a Patronus in the shape of a weasel?",
+    "options": ["Arthur Weasley", "Fred Weasley", "Percy Weasley", "George Weasley"],
+    "answer": "Arthur Weasley"
+  },
+  {
+    "question": "Which Hogwarts house was Neville Longbottom sorted into?",
+    "options": ["Gryffindor", "Hufflepuff", "Slytherin", "Ravenclaw"],
+    "answer": "Gryffindor"
+  },
+  {
+    "question": "What creature is Buckbeak?",
+    "options": ["Hippogriff", "Thestral", "Centaur", "Dragon"],
+    "answer": "Hippogriff"
+  },
+  {
+    "question": "Who is the Gryffindor house ghost, also known as Sir Nicholas de Mimsy-Porpington?",
+    "options": ["Nearly Headless Nick", "Bloody Baron", "Fat Friar", "Grey Lady"],
+    "answer": "Nearly Headless Nick"
+  },
+  {
+    "question": "Which member of the Marauders is nicknamed 'Moony'?",
+    "options": ["Remus Lupin", "Sirius Black", "James Potter", "Peter Pettigrew"],
+    "answer": "Remus Lupin"
+  },
+  {
+    "question": "To which house at Hogwarts was Draco Malfoy sorted?",
+    "options": ["Slytherin", "Gryffindor", "Ravenclaw", "Hufflepuff"],
+    "answer": "Slytherin"
+  },
+  {
+    "question": "What is the species of Aragog, the giant spider cared for by Hagrid?",
+    "options": ["Acromantula", "Basilisk", "Doxy", "Chimaera"],
+    "answer": "Acromantula"
+  },
+  {
+    "question": "Which character's Patronus is a stag?",
+    "options": ["Harry Potter", "James Potter", "Sirius Black", "Remus Lupin"],
+    "answer": "Harry Potter"
+  },
+  {
+    "question": "Who was the Slytherin house ghost at Hogwarts?",
+    "options": ["Bloody Baron", "Fat Friar", "Nearly Headless Nick", "Grey Lady"],
+    "answer": "Bloody Baron"
+  },
+  {
+    "question": "Which Hogwarts staff member is known for being the school nurse?",
+    "options": ["Madam Pomfrey", "Madam Hooch", "Madam Pince", "Madam Rosmerta"],
+    "answer": "Madam Pomfrey"
+  },
+  {
+    "question": "Which character goes by the nickname 'The Chosen One'?",
+    "options": ["Harry Potter", "Neville Longbottom", "Draco Malfoy", "Cedric Diggory"],
+    "answer": "Harry Potter"
+  },
+  {
+    "question": "What creature is Fluffy known to be?",
+    "options": ["Three-headed dog", "Basilisk", "Hippogriff", "Acromantula"],
+    "answer": "Three-headed dog"
+  },
+  {
+    "question": "Who is the head of Hufflepuff House and Professor of Herbology?",
+    "options": ["Pomona Sprout", "Madam Hooch", "Minerva McGonagall", "Aurora Sinistra"],
+    "answer": "Pomona Sprout"
+  },
+  {
+    "question": "What is the Patronus of Dolores Umbridge?",
+    "options": ["Persian cat", "Fox", "Otter", "Goat"],
+    "answer": "Persian cat"
+  },
+  {
+    "question": "Which character is known for the nickname 'Prongs'?",
+    "options": ["James Potter", "Sirius Black", "Remus Lupin", "Peter Pettigrew"],
+    "answer": "James Potter"
+  },
+  {
+    "question": "What is the Patronus of Albus Dumbledore?",
+    "options": ["Phoenix", "Stag", "Doe", "Owl"],
+    "answer": "Phoenix"
+  },
+  {
+    "question": "Who has the Patronus in the form of a boar?",
+    "options": ["Ernie Macmillan", "Remus Lupin", "Kingsley Shacklebolt", "Ginny Weasley"],
+    "answer": "Ernie Macmillan"
+  },
+  {
+    "question": "Which character was once a member of the Order of the Phoenix and had a habit of stealing from headquarters?",
+    "options": ["Mundungus Fletcher", "Sturgis Podmore", "Aberforth Dumbledore", "Dedalus Diggle"],
+    "answer": "Mundungus Fletcher"
+  },
+  {
+    "question": "Which character was a squib and caretaker at Hogwarts?",
+    "options": ["Argus Filch", "Aberforth Dumbledore", "Arabella Figg", "Stan Shunpike"],
+    "answer": "Argus Filch"
+  },
+  {
+    "question": "Who raised Norbert the dragon before it was relocated to Romania?",
+    "options": ["Rubeus Hagrid", "Charlie Weasley", "Sirius Black", "Remus Lupin"],
+    "answer": "Rubeus Hagrid"
+  },
+  {
+    "question": "Who was the Ravenclaw ghost known as the Grey Lady?",
+    "options": ["Helena Ravenclaw", "Moaning Myrtle", "The Fat Lady", "Arabella Figg"],
+    "answer": "Helena Ravenclaw"
+  },
+  {
+    "question": "Which founder was associated with the qualities of bravery and chivalry?",
+    "options": ["Godric Gryffindor", "Helga Hufflepuff", "Rowena Ravenclaw", "Salazar Slytherin"],
+    "answer": "Godric Gryffindor"
+  },
+  {
+    "question": "Which centaur briefly taught Divination at Hogwarts?",
+    "options": ["Firenze", "Bane", "Ronan", "Grawp"],
+    "answer": "Firenze"
+  },
+  {
+    "question": "What is the name of Hagrid's pet boarhound?",
+    "options": ["Fang", "Fluffy", "Norbert", "Buckbeak"],
+    "answer": "Fang"
+  },
+  {
+    "question": "Who was the owner of Crookshanks, the part-kneazle cat?",
+    "options": ["Hermione Granger", "Ron Weasley", "Harry Potter", "Luna Lovegood"],
+    "answer": "Hermione Granger"
+  },
+  {
+    "question": "What is the Patronus of Aberforth Dumbledore?",
+    "options": ["Goat", "Phoenix", "Weasel", "Stag"],
+    "answer": "Goat"
+  },
+  {
+    "question": "Which professor teaches Astronomy at Hogwarts?",
+    "options": ["Aurora Sinistra", "Sybill Trelawney", "Wilhelmina Grubbly-Plank", "Septima Vector"],
+    "answer": "Aurora Sinistra"
+  },
+  {
+    "question": "Which Slytherin alumnus owns a wand made of elm with a dragon heartstring core?",
+    "options": ["Lucius Malfoy", "Severus Snape", "Bellatrix Lestrange", "Horace Slughorn"],
+    "answer": "Lucius Malfoy"
+  },
+  {
+    "question": "What is the name of the toad owned by Neville Longbottom?",
+    "options": ["Trevor", "Fang", "Errol", "Pigwidgeon"],
+    "answer": "Trevor"
+  },
+  {
+    "question": "Who is the Hufflepuff ghost at Hogwarts?",
+    "options": ["The Fat Friar", "Sir Nicholas", "Grey Lady", "Bloody Baron"],
+    "answer": "The Fat Friar"
+  },
+  {
+    "question": "Which magical creature is known for crying tears that can heal?",
+    "options": ["Fawkes the Phoenix", "Thestral", "Hippogriff", "Unicorn"],
+    "answer": "Fawkes the Phoenix"
+  },
+  {
+    "question": "Who is known as the poltergeist who causes chaos at Hogwarts?",
+    "options": ["Peeves", "Nearly Headless Nick", "The Bloody Baron", "Sir Cadogan"],
+    "answer": "Peeves"
+  },
+  {
+    "question": "Which professor is famous for her Divination predictions and uses a hazel wand?",
+    "options": ["Sybill Trelawney", "Pomona Sprout", "Aurora Sinistra", "Wilhelmina Grubbly-Plank"],
+    "answer": "Sybill Trelawney"
+  },
+  {
+    "question": "What magical creature is Norberta, originally known as Norbert?",
+    "options": ["Dragon", "Hippogriff", "Thestral", "Basilisk"],
+    "answer": "Dragon"
+  },
+  {
+    "question": "Which character was known by the Marauder nickname 'Wormtail'?",
+    "options": ["Peter Pettigrew", "Sirius Black", "Remus Lupin", "James Potter"],
+    "answer": "Peter Pettigrew"
+  },
+  {
+    "question": "Which character once owned a wand made of alder with a unicorn hair core?",
+    "options": ["Quirinus Quirrell", "Peter Pettigrew", "Garrick Ollivander", "Horace Slughorn"],
+    "answer": "Quirinus Quirrell"
+  },
+  {
+    "question": "What profession is Garrick Ollivander known for?",
+    "options": ["Wandmaker", "Auror", "Healer", "Caretaker"],
+    "answer": "Wandmaker"
+  },
+  {
+    "question": "Which house is Terry Boot sorted into?",
+    "options": ["Ravenclaw", "Slytherin", "Gryffindor", "Hufflepuff"],
+    "answer": "Ravenclaw"
+  },
+  {
+    "question": "Which professor has a wand made of cherry and dragon heartstring?",
+    "options": ["Gilderoy Lockhart", "Severus Snape", "Quirinus Quirrell", "Horace Slughorn"],
+    "answer": "Gilderoy Lockhart"
+  },
+  {
+    "question": "Which student is described as having a non-corporeal Patronus?",
+    "options": ["Neville Longbottom", "Draco Malfoy", "Seamus Finnigan", "Cho Chang"],
+    "answer": "Neville Longbottom"
+  },
+  {
+    "question": "What creature guards the entrance to the Gryffindor common room?",
+    "options": ["The Fat Lady", "The Grey Lady", "The Bloody Baron", "The Fat Friar"],
+    "answer": "The Fat Lady"
+  },
+  {
+    "question": "Which house does Pansy Parkinson belong to?",
+    "options": ["Slytherin", "Hufflepuff", "Ravenclaw", "Gryffindor"],
+    "answer": "Slytherin"
+  },
+  {
+    "question": "Which ghost haunts the girls' bathroom at Hogwarts?",
+    "options": ["Moaning Myrtle", "The Grey Lady", "Fat Friar", "Wailing Widow"],
+    "answer": "Moaning Myrtle"
+  },
+  {
+    "question": "What is the common magical ancestry of the Malfoy family?",
+    "options": ["Pure-blood", "Muggle-born", "Half-blood", "Squib"],
+    "answer": "Pure-blood"
+  },
+  {
+    "question": "Which house did Narcissa Malfoy attend at Hogwarts?",
+    "options": ["Slytherin", "Gryffindor", "Hufflepuff", "Ravenclaw"],
+    "answer": "Slytherin"
+  },
+  {
+    "question": "What is the species of Rubeus Hagrid?",
+    "options": ["Half-giant", "Human", "Troll", "Werewolf"],
+    "answer": "Half-giant"
+  }
+]

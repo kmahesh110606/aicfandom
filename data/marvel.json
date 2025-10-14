@@ -1,0 +1,497 @@
+[
+  {
+    "question": "Who is the king of Wakanda at the beginning of Black Panther?",
+    "options": ["T'Challa", "M'Baku", "N'Jadaka", "Zuri"],
+    "answer": "T'Challa"
+  },
+  {
+    "question": "What is the name of Thor's hammer?",
+    "options": ["Mjolnir", "Stormbreaker", "Gungnir", "Bifrost"],
+    "answer": "Mjolnir"
+  },
+  {
+    "question": "Which super-soldier joined the Avengers after being frozen for nearly 70 years?",
+    "options": ["Steve Rogers", "Bruce Banner", "Sam Wilson", "Scott Lang"],
+    "answer": "Steve Rogers"
+  },
+  {
+    "question": "What material is Captain America's shield primarily made from?",
+    "options": ["Vibranium", "Adamantium", "Uru", "Titanium"],
+    "answer": "Vibranium"
+  },
+  {
+    "question": "Who is the ruler of Asgard during most of Thor: Ragnarok?",
+    "options": ["Hela", "Odin", "Loki", "Thor"],
+    "answer": "Hela"
+  },
+  {
+    "question": "Which artifact does Dr. Strange use to manipulate time?",
+    "options": ["Eye of Agamotto", "Tesseract", "Aether", "Casket of Ancient Winters"],
+    "answer": "Eye of Agamotto"
+  },
+  {
+    "question": "Who forms a team called the Guardians of the Galaxy?",
+    "options": ["Peter Quill", "Gamora", "Rocket", "Drax"],
+    "answer": "Peter Quill"
+  },
+  {
+    "question": "What is the real name of the villain known as 'Killmonger'?",
+    "options": ["Erik Stevens", "W'Kabi", "M'Baku", "Ulysses Klaue"],
+    "answer": "Erik Stevens"
+  },
+  {
+    "question": "Which Infinity Stone is hidden inside Loki's scepter?",
+    "options": ["Mind Stone", "Reality Stone", "Power Stone", "Soul Stone"],
+    "answer": "Mind Stone"
+  },
+  {
+    "question": "Who leads the Dora Milaje, the elite guard of Wakanda?",
+    "options": ["Okoye", "Shuri", "Nakia", "Ramonda"],
+    "answer": "Okoye"
+  },
+  {
+    "question": "In which fictional country does much of Black Panther take place?",
+    "options": ["Wakanda", "Sokovia", "Latveria", "Genosha"],
+    "answer": "Wakanda"
+  },
+  {
+    "question": "What technology keeps Tony Stark alive after his kidnapping in Iron Man?",
+    "options": ["Arc Reactor", "Unibeam", "Repulsor", "Iron Heart"],
+    "answer": "Arc Reactor"
+  },
+  {
+    "question": "Who is the AI assistant inside Iron Man's suits?",
+    "options": ["J.A.R.V.I.S.", "F.R.I.D.A.Y.", "Karen", "Siri"],
+    "answer": "J.A.R.V.I.S."
+  },
+  {
+    "question": "Which hero is also known as the Sorcerer Supreme?",
+    "options": ["Doctor Strange", "Wong", "Agatha Harkness", "Baron Mordo"],
+    "answer": "Doctor Strange"
+  },
+  {
+    "question": "Who is the adopted brother of Thor?",
+    "options": ["Loki", "Baldur", "Sif", "Heimdall"],
+    "answer": "Loki"
+  },
+  {
+    "question": "Which item allows interdimensional travel in Thor movies?",
+    "options": ["Bifrost", "Tesseract", "Quantum Tunnel", "Darkhold"],
+    "answer": "Bifrost"
+  },
+  {
+    "question": "Who becomes the new Black Panther after T'Challa's death?",
+    "options": ["Shuri", "Okoye", "Nakia", "M'Baku"],
+    "answer": "Shuri"
+  },
+  {
+    "question": "What scientific field does Bruce Banner specialize in?",
+    "options": ["Gamma radiation", "Robotics", "Astrophysics", "Nanotechnology"],
+    "answer": "Gamma radiation"
+  },
+  {
+    "question": "Who is Peter Parker's mentor in Spider-Man: Homecoming?",
+    "options": ["Tony Stark", "Nick Fury", "Steve Rogers", "Happy Hogan"],
+    "answer": "Tony Stark"
+  },
+  {
+    "question": "Which character has the power to change size using Pym Particles?",
+    "options": ["Scott Lang", "Steve Rogers", "Rhodey", "Wanda Maximoff"],
+    "answer": "Scott Lang"
+  },
+  {
+    "question": "What was the main purpose of Project Insight in Captain America: The Winter Soldier?",
+    "options": ["To preemptively eliminate threats with Helicarriers", "To discover new super soldiers", "To create a new version of the Super Soldier Serum", "To make energy weapons for S.H.I.E.L.D."],
+    "answer": "To preemptively eliminate threats with Helicarriers"
+  },
+  {
+    "question": "What object does Peter Quill steal at the beginning of Guardians of the Galaxy?",
+    "options": ["The Orb", "The Tesseract", "The Scepter", "The Aether"],
+    "answer": "The Orb"
+  },
+  {
+    "question": "Who is revealed as the mastermind behind the 'Mandarin' attacks in Iron Man 3?",
+    "options": ["Aldrich Killian", "Trevor Slattery", "Justin Hammer", "Ivan Vanko"],
+    "answer": "Aldrich Killian"
+  },
+  {
+    "question": "Which Marvel film introduces the concept of the Quantum Realm?",
+    "options": ["Ant-Man", "Doctor Strange", "Guardians of the Galaxy", "Thor: Ragnarok"],
+    "answer": "Ant-Man"
+  },
+  {
+    "question": "What is the true identity of the villain Taskmaster in Black Widow?",
+    "options": ["Antonia Dreykov", "Melina Vostokoff", "Yelena Belova", "Alexei Shostakov"],
+    "answer": "Antonia Dreykov"
+  },
+  {
+    "question": "Which Infinity Stone does Vision receive in Avengers: Age of Ultron?",
+    "options": ["Mind Stone", "Power Stone", "Reality Stone", "Time Stone"],
+    "answer": "Mind Stone"
+  },
+  {
+    "question": "What is the name of Thor's sister revealed in Thor: Ragnarok?",
+    "options": ["Hela", "Sif", "Frigga", "Valkyrie"],
+    "answer": "Hela"
+  },
+  {
+    "question": "In Ant-Man and the Wasp, who is searching for a cure for Ava Starr's unstable condition?",
+    "options": ["Bill Foster", "Hank Pym", "Scott Lang", "Sonny Burch"],
+    "answer": "Bill Foster"
+  },
+  {
+    "question": "Who becomes the new Falcon in Captain America: Brave New World?",
+    "options": ["Joaquin Torres", "Sam Wilson", "Bucky Barnes", "Sharon Carter"],
+    "answer": "Joaquin Torres"
+  },
+  {
+    "question": "Who is Rocket Raccoon's creator and primary tormentor in Guardians of the Galaxy Vol. 3?",
+    "options": ["High Evolutionary", "Thanos", "Ayesha", "Yondu Udonta"],
+    "answer": "High Evolutionary"
+  },
+  {
+    "question": "What is the name of the material newly discovered on Celestial Island in Captain America: Brave New World?",
+    "options": ["Adamantium", "Vibranium", "Uru", "Pym Particles"],
+    "answer": "Adamantium"
+  },
+  {
+    "question": "Which superhero is famous for saying, 'Wakanda Forever'?",
+    "options": ["Black Panther", "Captain America", "Iron Man", "Shuri"],
+    "answer": "Black Panther"
+  },
+  {
+    "question": "Who leads the Red Room program in Black Widow?",
+    "options": ["General Dreykov", "Yelena Belova", "Alexei Shostakov", "Melina Vostokoff"],
+    "answer": "General Dreykov"
+  },
+  {
+    "question": "How does S.H.I.E.L.D. first find Steve Rogers after his crash in Captain America: The First Avenger?",
+    "options": ["They discover him frozen in ice", "They find his shield in New York", "He contacts them through radio", "They receive a distress signal"],
+    "answer": "They discover him frozen in ice"
+  },
+  {
+    "question": "Who does Doctor Strange consult about dreams and the multiverse in Multiverse of Madness?",
+    "options": ["Wanda Maximoff", "Wong", "Mordo", "Christine Palmer"],
+    "answer": "Wanda Maximoff"
+  },
+  {
+    "question": "What position does Pepper Potts take at Stark Industries in Iron Man 2?",
+    "options": ["CEO", "Head of Security", "Chief Scientist", "Vice President"],
+    "answer": "CEO"
+  },
+  {
+    "question": "Which Wakandan tribe challenges for the throne in Black Panther?",
+    "options": ["Jabari", "River Tribe", "Border Tribe", "Golden Tribe"],
+    "answer": "Jabari"
+  },
+  {
+    "question": "Who gives Sam Wilson the Captain America shield at the end of Avengers: Endgame?",
+    "options": ["Steve Rogers", "Bucky Barnes", "Tony Stark", "Nick Fury"],
+    "answer": "Steve Rogers"
+  },
+  {
+    "question": "Which organization is responsible for monitoring timelines in Deadpool & Wolverine?",
+    "options": ["Time Variance Authority (TVA)", "S.H.I.E.L.D.", "Hydra", "The Ravagers"],
+    "answer": "Time Variance Authority (TVA)"
+  },
+  {
+    "question": "What is the name of the terrorist group that kidnaps Tony Stark in the first Iron Man film?",
+    "options": ["The Ten Rings", "Hydra", "The Hand", "The Red Room"],
+    "answer": "The Ten Rings"
+  },
+  {
+    "question": "Who sacrifices himself to help Tony escape captivity in Iron Man?",
+    "options": ["Yinsen", "Rhodey", "Obadiah Stane", "Happy Hogan"],
+    "answer": "Yinsen"
+  },
+  {
+    "question": "Why does Tony Stark decide to shut down weapons manufacturing at Stark Industries?",
+    "options": ["His weapons are used by enemies", "He discovers a better business model", "Rhodey advises him to", "SHIELD mandates it"],
+    "answer": "His weapons are used by enemies"
+  },
+  {
+    "question": "What is the name of the large suit Obadiah Stane creates in Iron Man?",
+    "options": ["Iron Monger", "Titan Armor", "Juggernaut", "War Machine Alpha"],
+    "answer": "Iron Monger"
+  },
+  {
+    "question": "Which government official tries to confiscate the Iron Man suit in Iron Man 2?",
+    "options": ["Senator Stern", "Secretary Ross", "Director Fury", "President Ellis"],
+    "answer": "Senator Stern"
+  },
+  {
+    "question": "Who assumes the identity of War Machine in Iron Man 2?",
+    "options": ["James Rhodes", "Tony Stark", "Sam Wilson", "Justin Hammer"],
+    "answer": "James Rhodes"
+  },
+  {
+    "question": "What material in the arc reactor is poisoning Tony Stark in Iron Man 2?",
+    "options": ["Palladium", "Vibranium", "Titanium", "Lithium"],
+    "answer": "Palladium"
+  },
+  {
+    "question": "What element does Tony Stark successfully synthesize to replace palladium in Iron Man 2?",
+    "options": ["A new element based on his father's research", "Uru", "Xenon", "Adamantium"],
+    "answer": "A new element based on his father's research"
+  },
+  {
+    "question": "Who is revealed to be a SHIELD agent in disguise in Iron Man 2?",
+    "options": ["Natasha Romanoff", "Christine Everhart", "Pepper Potts", "Maria Hill"],
+    "answer": "Natasha Romanoff"
+  },
+  {
+    "question": "Where does the final battle take place in Iron Man 2?",
+    "options": ["Stark Expo", "Stark Tower", "Hammer Industries", "SHIELD Helicarrier"],
+    "answer": "Stark Expo"
+  },
+  {
+    "question": "What causes Bruce Banner to transform into the Hulk?",
+    "options": ["Rising heart rate", "Moonlight exposure", "Gamma messaging", "Adrenaline medicine"],
+    "answer": "Rising heart rate"
+  },
+  {
+    "question": "What is the name of the scientist who becomes Abomination?",
+    "options": ["Emil Blonsky", "Samuel Sterns", "Leonard Samson", "Jack McGee"],
+    "answer": "Emil Blonsky"
+  },
+  {
+    "question": "What is the relationship between Bruce Banner and Betty Ross?",
+    "options": ["Romantic partners", "Siblings", "Colleagues only", "Unrelated strangers"],
+    "answer": "Romantic partners"
+  },
+  {
+    "question": "Who gives Bruce Banner an antidote to suppress the Hulk temporarily?",
+    "options": ["Samuel Sterns", "Tony Stark", "Nick Fury", "Betty Ross"],
+    "answer": "Samuel Sterns"
+  },
+  {
+    "question": "What city is devastated by the battle between Hulk and Abomination?",
+    "options": ["Harlem", "Chicago", "Philadelphia", "Brooklyn"],
+    "answer": "Harlem"
+  },
+  {
+    "question": "What key information does Loki need from Earth in The Avengers?",
+    "options": ["The Tesseract", "The Mind Stone", "Gamma radiation formula", "Asgardian codes"],
+    "answer": "The Tesseract"
+  },
+  {
+    "question": "Why does Nick Fury revive the Avengers Initiative?",
+    "options": ["Loki's invasion and the theft of the Tesseract", "Ultron's threat", "Galactus arrives", "Thanos attacks Xandar"],
+    "answer": "Loki's invasion and the theft of the Tesseract"
+  },
+  {
+    "question": "Who joins the Avengers after fighting them in Avengers: Age of Ultron?",
+    "options": ["Wanda Maximoff", "Ulysses Klaue", "Baron Zemo", "Valkyrie"],
+    "answer": "Wanda Maximoff"
+  },
+  {
+    "question": "Which Wakandan herb grants the powers of the Black Panther?",
+    "options": ["Heart-shaped herb", "Lotus flower", "Vibranium vine", "Dragon's blood"],
+    "answer": "Heart-shaped herb"
+  },
+  {
+    "question": "What is the source of Captain Marvel's powers?",
+    "options": ["Tesseract", "Infinity Gauntlet", "Vibranium", "Gamma radiation"],
+    "answer": "Tesseract"
+  },
+  {
+    "question": "Who inherits the title of Sorcerer Supreme after the Ancient One's death?",
+    "options": ["Doctor Strange", "Mordo", "Wong", "Kaecilius"],
+    "answer": "Doctor Strange"
+  },
+  {
+    "question": "Which MCU location is known as the hub for interdimensional travel?",
+    "options": ["Sanctum Sanctorum", "Quantum Realm", "Rainbow Bridge", "Knowhere"],
+    "answer": "Sanctum Sanctorum"
+  },
+  {
+    "question": "What event causes half of all life in the universe to disappear?",
+    "options": ["The Snap", "Infinity War", "The Blip", "Time Heist"],
+    "answer": "The Snap"
+  },
+  {
+    "question": "Which group enforces timelines and multiverse rules in the MCU?",
+    "options": ["Time Variance Authority", "S.H.I.E.L.D.", "Hydra", "Council of Kangs"],
+    "answer": "Time Variance Authority"
+  },
+  {
+    "question": "On which planet does Peter Quill retrieve the Power Stone in Guardians of the Galaxy?",
+    "options": ["Morag", "Xandar", "Sakaar", "Vormir"],
+    "answer": "Morag"
+  },
+  {
+    "question": "What experiment gives Steve Rogers his enhanced abilities in Captain America: The First Avenger?",
+    "options": ["Super Soldier Serum", "Arc Reactor", "Infinity Stone", "Vibranium infusion"],
+    "answer": "Super Soldier Serum"
+  },
+  {
+    "question": "Which organization is secretly infiltrated and manipulated by Hydra in Captain America: The Winter Soldier?",
+    "options": ["S.H.I.E.L.D.", "A.I.M.", "Nova Corps", "Wakanda Council"],
+    "answer": "S.H.I.E.L.D."
+  },
+  {
+    "question": "Who is T'Challa's sister and the lead Wakandan scientist?",
+    "options": ["Shuri", "Okoye", "Nakia", "Ramonda"],
+    "answer": "Shuri"
+  },
+  {
+    "question": "What is the real identity of the Winter Soldier?",
+    "options": ["Bucky Barnes", "Steve Rogers", "Sam Wilson", "Clint Barton"],
+    "answer": "Bucky Barnes"
+  },
+  {
+    "question": "Which cosmic artifact does Ronan the Accuser attempt to use for planetary destruction?",
+    "options": ["Power Stone", "Mind Stone", "Aether", "Eye of Agamotto"],
+    "answer": "Power Stone"
+  },
+  {
+    "question": "What MCU location is ruled by Odin?",
+    "options": ["Asgard", "Wakanda", "Xandar", "Sokovia"],
+    "answer": "Asgard"
+  },
+  {
+    "question": "Who is Peter Parker's best friend in high school?",
+    "options": ["Ned Leeds", "Flash Thompson", "Harry Osborn", "MJ"],
+    "answer": "Ned Leeds"
+  },
+  {
+    "question": "Which Spider-Man villain leads the group known as the Sinister Six in Spider-Man: No Way Home?",
+    "options": ["Doctor Octopus", "Green Goblin", "Electro", "Sandman"],
+    "answer": "Doctor Octopus"
+  },
+  {
+    "question": "In Thor: Ragnarok, whose arrival signals the destruction of Asgard?",
+    "options": ["Surtur", "Hela", "Loki", "Fenris"],
+    "answer": "Surtur"
+  },
+  {
+    "question": "Who leads the Kree forces in Captain Marvel?",
+    "options": ["Yon-Rogg", "Ronan the Accuser", "Korath", "Minn-Erva"],
+    "answer": "Yon-Rogg"
+  },
+  {
+    "question": "What is the nickname of Clint Barton's vigilante identity used during the Blip?",
+    "options": ["Ronin", "Hawkeye", "Shadowshot", "Nomad"],
+    "answer": "Ronin"
+  },
+  {
+    "question": "Which celestial emerges from Earth's surface in Eternals?",
+    "options": ["Tiamut", "Arishem", "Ikaris", "Kro"],
+    "answer": "Tiamut"
+  },
+  {
+    "question": "In Shang-Chi and the Legend of the Ten Rings, what is the name of the hidden village Shang-Chi's mother came from?",
+    "options": ["Ta Lo", "Lian Yu", "Kamar-Taj", "Xialing"],
+    "answer": "Ta Lo"
+  },
+  {
+    "question": "What do the Eternals believe their mission on Earth to be?",
+    "options": ["To protect humans from Deviants", "To colonize Earth for the Celestials", "To extract energy from the planet", "To rule over early civilizations"],
+    "answer": "To protect humans from Deviants"
+  },
+  {
+    "question": "Which landmark does Spider-Man rescue his classmates inside during Spider-Man: Far From Home?",
+    "options": ["Tower of London", "London Eye", "Big Ben", "Buckingham Palace"],
+    "answer": "Tower of London"
+  },
+  {
+    "question": "In Thor: The Dark World, who ultimately becomes the host for the Aether?",
+    "options": ["Jane Foster", "Malekith", "Sif", "Heimdall"],
+    "answer": "Jane Foster"
+  },
+  {
+    "question": "Which Eternal is capable of manipulating memories?",
+    "options": ["Sprite", "Phastos", "Druig", "Ajak"],
+    "answer": "Sprite"
+  },
+  {
+    "question": "What is the name of Shang-Chi's sister who runs an underground fight ring?",
+    "options": ["Xialing", "Li", "Ying", "Nan"],
+    "answer": "Xialing"
+  },
+  {
+    "question": "What organization is responsible for monitoring extraterrestrial threats in Spider-Man: Far From Home after S.H.I.E.L.D. collapses?",
+    "options": ["S.W.O.R.D.", "Damage Control", "The TVA", "Ravagers"],
+    "answer": "S.W.O.R.D."
+  },
+  {
+    "question": "In Spider-Man: Homecoming, what is the identity of the villain who salvages alien technology from New York?",
+    "options": ["Adrian Toomes", "Mac Gargan", "Herman Schultz", "Aaron Davis"],
+    "answer": "Adrian Toomes"
+  },
+  {
+    "question": "What is Peter Parker's favorite academic subject, as shown in his school activities?",
+    "options": ["Science", "History", "Art", "Physical Education"],
+    "answer": "Science"
+  },
+  {
+    "question": "In Thor: Love and Thunder, which group of children does Thor rescue?",
+    "options": ["Asgardian children", "Midgardian refugees", "Children of Xandar", "Skar children"],
+    "answer": "Asgardian children"
+  },
+  {
+    "question": "Which city is the site of the final confrontation in Doctor Strange?",
+    "options": ["Hong Kong", "London", "New York", "Kathmandu"],
+    "answer": "Hong Kong"
+  },
+  {
+    "question": "Who is the AI that assists Peter Parker in his upgraded Spider-Man suit in Spider-Man: Homecoming?",
+    "options": ["Karen", "J.A.R.V.I.S.", "E.D.I.T.H.", "F.R.I.D.A.Y."],
+    "answer": "Karen"
+  },
+  {
+    "question": "In Guardians of the Galaxy Vol. 2, what is Ego's relationship to Peter Quill?",
+    "options": ["Father", "Grandfather", "Uncle", "Enemy"],
+    "answer": "Father"
+  },
+  {
+    "question": "Which invention does Shuri demonstrate that disables others' technology in Black Panther?",
+    "options": ["EMP beads", "Sonic cannon", "Vibranium net", "Nanite darts"],
+    "answer": "EMP beads"
+  },
+  {
+    "question": "Who is forced to remain on Vormir to obtain the Soul Stone with Hawkeye in Avengers: Endgame?",
+    "options": ["Natasha Romanoff", "Nebula", "Gamora", "Rocket"],
+    "answer": "Natasha Romanoff"
+  },
+  {
+    "question": "Which MCU character is a renowned sorcerer with a photographic memory?",
+    "options": ["Stephen Strange", "Wanda Maximoff", "Karl Mordo", "Wong"],
+    "answer": "Stephen Strange"
+  },
+  {
+    "question": "Who is the ruler of the underwater kingdom Talokan in Black Panther: Wakanda Forever?",
+    "options": ["Namor", "Attuma", "K'Uk'ulkan", "Okoye"],
+    "answer": "Namor"
+  },
+  {
+    "question": "What language do the Wakandans use as their native tongue?",
+    "options": ["Xhosa", "Swahili", "French", "Hausa"],
+    "answer": "Xhosa"
+  },
+  {
+    "question": "Which group does Star-Lord's original Ravager mentor Yondu belong to?",
+    "options": ["Original Ravagers", "Nova Corps", "Guardians", "Kree Warriors"],
+    "answer": "Original Ravagers"
+  },
+  {
+    "question": "Who becomes the Scarlet Witch after unlocking her full magical abilities?",
+    "options": ["Wanda Maximoff", "Agatha Harkness", "Morgan Stark", "America Chavez"],
+    "answer": "Wanda Maximoff"
+  },
+  {
+    "question": "Which school event does Peter Parker's class travel to Europe for in Spider-Man: Far From Home?",
+    "options": ["Science trip", "Football tournament", "Choir performance", "Debate championship"],
+    "answer": "Science trip"
+  },
+  {
+    "question": "What celestial event are the Eternals trying to prevent during the Emergence?",
+    "options": ["The birth of Tiamut", "A solar eclipse", "The destruction of Atlantis", "The breaking of the Bifrost"],
+    "answer": "The birth of Tiamut"
+  },
+  {
+    "question": "Who is the leader of the Red Guardian program in the Soviet Union?",
+    "options": ["Alexei Shostakov", "Melina Vostokoff", "Yelena Belova", "Ivan Vanko"],
+    "answer": "Alexei Shostakov"
+  }
+]
